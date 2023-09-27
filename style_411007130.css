@@ -1,0 +1,10 @@
+body {
+    background-color: #f1f5f3;
+}
+
+.card {
+    background-color: #ffffff;
+    border: 1px solid purple;
+    padding: 1.5rem 2rem;
+    margin: 3rem;
+}
