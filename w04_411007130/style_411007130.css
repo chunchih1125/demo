@@ -10,6 +10,7 @@ body {
     text-align: center;
 }
 
+
 .card-1 {
     border-color: #ff69a6;
 }
@@ -51,4 +52,10 @@ body {
     color: #63a8ff;
     background-color: rgba(99, 168, 255, 0.1);
     border: 1px solid rgba(99, 168, 255, 0.5);
+}
+
+.img {
+    border-radius: 0.5rem;
+    height: 220px;
+    object-fit: cover;
 }
